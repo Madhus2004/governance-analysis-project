@@ -1,0 +1,561 @@
+Country Name,Country Code,year,Value,Metric
+Australia,AUS,2015,83.93283269999999,Government Effectiveness
+Australia,AUS,2015,79.61514439999999,Political Stability
+Australia,AUS,2015,86.52900009999999,Rule of Law
+Australia,AUS,2015,84.05763739999999,Voice and Accountability
+China,CHN,2015,61.716004,Government Effectiveness
+China,CHN,2015,56.563683499999996,Political Stability
+China,CHN,2015,45.569834199999995,Rule of Law
+China,CHN,2015,32.4786757,Voice and Accountability
+Japan,JPN,2015,84.5129644,Government Effectiveness
+Japan,JPN,2015,86.7789985,Political Stability
+Japan,JPN,2015,81.67962969999999,Rule of Law
+Japan,JPN,2015,77.439983,Voice and Accountability
+India,IND,2015,59.056804799999995,Government Effectiveness
+India,IND,2015,52.8796025,Political Stability
+India,IND,2015,54.5995656,Rule of Law
+India,IND,2015,62.0542118,Voice and Accountability
+Russian Federation,RUS,2015,45.0710518,Government Effectiveness
+Russian Federation,RUS,2015,52.389871299999996,Political Stability
+Russian Federation,RUS,2015,41.3230363,Rule of Law
+Russian Federation,RUS,2015,42.6871599,Voice and Accountability
+United Kingdom,GBR,2015,83.1560518,Government Effectiveness
+United Kingdom,GBR,2015,75.0691258,Political Stability
+United Kingdom,GBR,2015,85.5496474,Rule of Law
+United Kingdom,GBR,2015,82.45158099999999,Voice and Accountability
+United States,USA,2015,81.921098,Government Effectiveness
+United States,USA,2015,77.2686791,Political Stability
+United States,USA,2015,80.6641363,Rule of Law
+United States,USA,2015,79.4057418,Voice and Accountability
+United Arab Emirates,ARE,2015,78.6403765,Government Effectiveness
+United Arab Emirates,ARE,2015,80.2130602,Political Stability
+United Arab Emirates,ARE,2015,63.0056242,Rule of Law
+United Arab Emirates,ARE,2015,45.0842203,Voice and Accountability
+Afghanistan,AFG,2015,22.7349885,Government Effectiveness
+Afghanistan,AFG,2015,23.510621099999998,Political Stability
+Afghanistan,AFG,2015,28.6914007,Rule of Law
+Afghanistan,AFG,2015,35.6729412,Voice and Accountability
+Germany,DEU,2015,89.4963851,Government Effectiveness
+Germany,DEU,2015,80.0916647,Political Stability
+Germany,DEU,2015,86.90913119999999,Rule of Law
+Germany,DEU,2015,84.70839219999999,Voice and Accountability
+New Zealand,NZL,2015,89.258822,Government Effectiveness
+New Zealand,NZL,2015,90.9379445,Political Stability
+New Zealand,NZL,2015,88.9144707,Rule of Law
+New Zealand,NZL,2015,88.153218,Voice and Accountability
+Philippines,PHL,2015,59.274046999999996,Government Effectiveness
+Philippines,PHL,2015,50.0628483,Political Stability
+Philippines,PHL,2015,49.564749899999995,Rule of Law
+Philippines,PHL,2015,57.3640821,Voice and Accountability
+South Africa,ZAF,2015,56.0942459,Government Effectiveness
+South Africa,ZAF,2015,60.5909646,Political Stability
+South Africa,ZAF,2015,57.7229004,Rule of Law
+South Africa,ZAF,2015,67.18763059999999,Voice and Accountability
+Ukraine,UKR,2015,40.5690047,Government Effectiveness
+Ukraine,UKR,2015,35.0374627,Political Stability
+Ukraine,UKR,2015,44.9183282,Rule of Law
+Ukraine,UKR,2015,54.0960821,Voice and Accountability
+Australia,AUS,2016,82.934005,Government Effectiveness
+Australia,AUS,2016,82.19158089999999,Political Stability
+Australia,AUS,2016,86.7190682,Rule of Law
+Australia,AUS,2016,84.6444258,Voice and Accountability
+China,CHN,2016,61.9022563,Government Effectiveness
+China,CHN,2016,57.328964799999994,Political Stability
+China,CHN,2016,46.273893099999995,Rule of Law
+China,CHN,2016,32.5243345,Voice and Accountability
+Japan,JPN,2016,86.6068501,Government Effectiveness
+Japan,JPN,2016,85.0237906,Political Stability
+Japan,JPN,2016,81.6394617,Rule of Law
+Japan,JPN,2016,77.2544812,Voice and Accountability
+India,IND,2016,58.6538119,Government Effectiveness
+India,IND,2016,53.318606499999994,Political Stability
+India,IND,2016,55.547510499999994,Rule of Law
+India,IND,2016,62.1809526,Voice and Accountability
+Russian Federation,RUS,2016,44.9980608,Government Effectiveness
+Russian Federation,RUS,2016,52.7678581,Political Stability
+Russian Federation,RUS,2016,42.0417656,Rule of Law
+Russian Federation,RUS,2016,43.103673699999995,Voice and Accountability
+United Kingdom,GBR,2016,83.4783092,Government Effectiveness
+United Kingdom,GBR,2016,73.5786913,Political Stability
+United Kingdom,GBR,2016,84.7289378,Rule of Law
+United Kingdom,GBR,2016,82.548214,Voice and Accountability
+United States,USA,2016,82.2968867,Government Effectiveness
+United States,USA,2016,71.49570969999999,Political Stability
+United States,USA,2016,81.0107788,Rule of Law
+United States,USA,2016,78.5831949,Voice and Accountability
+United Arab Emirates,ARE,2016,78.783119,Government Effectiveness
+United Arab Emirates,ARE,2016,77.7250567,Political Stability
+United Arab Emirates,ARE,2016,64.2018989,Rule of Law
+United Arab Emirates,ARE,2016,45.448678099999995,Voice and Accountability
+Afghanistan,AFG,2016,23.7741041,Government Effectiveness
+Afghanistan,AFG,2016,23.4723617,Political Stability
+Afghanistan,AFG,2016,29.769957599999998,Rule of Law
+Afghanistan,AFG,2016,35.557475499999995,Voice and Accountability
+Germany,DEU,2016,88.39657489999999,Government Effectiveness
+Germany,DEU,2016,79.4663004,Political Stability
+Germany,DEU,2016,85.9619349,Rule of Law
+Germany,DEU,2016,83.3579649,Voice and Accountability
+New Zealand,NZL,2016,86.779933,Government Effectiveness
+New Zealand,NZL,2016,90.906224,Political Stability
+New Zealand,NZL,2016,89.0720484,Rule of Law
+New Zealand,NZL,2016,88.08985729999999,Voice and Accountability
+Philippines,PHL,2016,56.200587199999994,Government Effectiveness
+Philippines,PHL,2016,41.3367179,Political Stability
+Philippines,PHL,2016,48.8248033,Rule of Law
+Philippines,PHL,2016,57.2807493,Voice and Accountability
+South Africa,ZAF,2016,55.2548767,Government Effectiveness
+South Africa,ZAF,2016,60.122322399999995,Political Stability
+South Africa,ZAF,2016,58.1714096,Rule of Law
+South Africa,ZAF,2016,66.8495473,Voice and Accountability
+Ukraine,UKR,2016,41.3103761,Government Effectiveness
+Ukraine,UKR,2016,38.0353382,Political Stability
+Ukraine,UKR,2016,45.858720999999996,Rule of Law
+Ukraine,UKR,2016,54.5786397,Voice and Accountability
+Australia,AUS,2017,83.3122495,Government Effectiveness
+Australia,AUS,2017,79.2718127,Political Stability
+Australia,AUS,2017,84.9097362,Rule of Law
+Australia,AUS,2017,85.2240873,Voice and Accountability
+China,CHN,2017,62.593932599999995,Government Effectiveness
+China,CHN,2017,62.4219089,Political Stability
+China,CHN,2017,47.749406199999996,Rule of Law
+China,CHN,2017,32.687888199999996,Voice and Accountability
+Japan,JPN,2017,84.63862139999999,Government Effectiveness
+Japan,JPN,2017,85.8692068,Political Stability
+Japan,JPN,2017,82.5949156,Rule of Law
+Japan,JPN,2017,77.8115906,Voice and Accountability
+India,IND,2017,58.1999807,Government Effectiveness
+India,IND,2017,56.121815,Political Stability
+India,IND,2017,56.2764251,Rule of Law
+India,IND,2017,61.3202362,Voice and Accountability
+Russian Federation,RUS,2017,47.1232942,Government Effectiveness
+Russian Federation,RUS,2017,56.693905099999995,Political Stability
+Russian Federation,RUS,2017,42.5565429,Rule of Law
+Russian Federation,RUS,2017,43.4836317,Voice and Accountability
+United Kingdom,GBR,2017,81.7911302,Government Effectiveness
+United Kingdom,GBR,2017,73.42161399999999,Political Stability
+United Kingdom,GBR,2017,84.6468204,Rule of Law
+United Kingdom,GBR,2017,81.7675715,Voice and Accountability
+United States,USA,2017,82.4298488,Government Effectiveness
+United States,USA,2017,67.7755797,Political Stability
+United States,USA,2017,79.68341699999999,Rule of Law
+United States,USA,2017,76.51587959999999,Voice and Accountability
+United Arab Emirates,ARE,2017,78.1385983,Government Effectiveness
+United Arab Emirates,ARE,2017,78.1809681,Political Stability
+United Arab Emirates,ARE,2017,63.5648206,Rule of Law
+United Arab Emirates,ARE,2017,44.8697203,Voice and Accountability
+Afghanistan,AFG,2017,23.2985617,Government Effectiveness
+Afghanistan,AFG,2017,21.2442702,Political Stability
+Afghanistan,AFG,2017,29.511933,Rule of Law
+Afghanistan,AFG,2017,35.1510642,Voice and Accountability
+Germany,DEU,2017,88.091681,Government Effectiveness
+Germany,DEU,2017,77.8895081,Political Stability
+Germany,DEU,2017,86.2725572,Rule of Law
+Germany,DEU,2017,83.5118415,Voice and Accountability
+New Zealand,NZL,2017,86.0992134,Government Effectiveness
+New Zealand,NZL,2017,91.3884222,Political Stability
+New Zealand,NZL,2017,88.2745767,Rule of Law
+New Zealand,NZL,2017,87.8657607,Voice and Accountability
+Philippines,PHL,2017,54.7710745,Government Effectiveness
+Philippines,PHL,2017,44.0426791,Political Stability
+Philippines,PHL,2017,46.788271099999996,Rule of Law
+Philippines,PHL,2017,55.192928099999996,Voice and Accountability
+South Africa,ZAF,2017,55.6720559,Government Effectiveness
+South Africa,ZAF,2017,59.355008299999994,Political Stability
+South Africa,ZAF,2017,57.2114826,Rule of Law
+South Africa,ZAF,2017,66.28582879999999,Voice and Accountability
+Ukraine,UKR,2017,41.9349724,Government Effectiveness
+Ukraine,UKR,2017,38.7345804,Political Stability
+Ukraine,UKR,2017,47.0488308,Rule of Law
+Ukraine,UKR,2017,54.5642965,Voice and Accountability
+Australia,AUS,2018,84.87716449999999,Government Effectiveness
+Australia,AUS,2018,80.9961371,Political Stability
+Australia,AUS,2018,85.1195657,Rule of Law
+Australia,AUS,2018,84.3283764,Voice and Accountability
+China,CHN,2018,61.6672656,Government Effectiveness
+China,CHN,2018,61.845992499999994,Political Stability
+China,CHN,2018,48.0074945,Rule of Law
+China,CHN,2018,31.4352456,Voice and Accountability
+Japan,JPN,2018,86.82386679999999,Government Effectiveness
+Japan,JPN,2018,85.330928,Political Stability
+Japan,JPN,2018,82.559088,Rule of Law
+Japan,JPN,2018,76.45752279999999,Voice and Accountability
+India,IND,2018,61.092230099999995,Government Effectiveness
+India,IND,2018,54.3030106,Political Stability
+India,IND,2018,57.3146728,Rule of Law
+India,IND,2018,60.4062457,Voice and Accountability
+Russian Federation,RUS,2018,48.1709302,Government Effectiveness
+Russian Federation,RUS,2018,59.6065913,Political Stability
+Russian Federation,RUS,2018,42.637509,Rule of Law
+Russian Federation,RUS,2018,43.1398741,Voice and Accountability
+United Kingdom,GBR,2018,80.9891227,Government Effectiveness
+United Kingdom,GBR,2018,70.72153229999999,Political Stability
+United Kingdom,GBR,2018,82.53116709999999,Rule of Law
+United Kingdom,GBR,2018,80.9247321,Voice and Accountability
+United States,USA,2018,83.2803088,Government Effectiveness
+United States,USA,2018,70.8565316,Political Stability
+United States,USA,2018,77.13749279999999,Rule of Law
+United States,USA,2018,75.28110699999999,Voice and Accountability
+United Arab Emirates,ARE,2018,78.7848806,Government Effectiveness
+United Arab Emirates,ARE,2018,80.134659,Political Stability
+United Arab Emirates,ARE,2018,63.6651728,Rule of Law
+United Arab Emirates,ARE,2018,42.3070514,Voice and Accountability
+Afghanistan,AFG,2018,19.6224247,Government Effectiveness
+Afghanistan,AFG,2018,21.7827865,Political Stability
+Afghanistan,AFG,2018,28.27664,Rule of Law
+Afghanistan,AFG,2018,36.0946059,Voice and Accountability
+Germany,DEU,2018,86.3768371,Government Effectiveness
+Germany,DEU,2018,79.967946,Political Stability
+Germany,DEU,2018,86.4901366,Rule of Law
+Germany,DEU,2018,83.8472015,Voice and Accountability
+New Zealand,NZL,2018,84.4641774,Government Effectiveness
+New Zealand,NZL,2018,90.5754935,Political Stability
+New Zealand,NZL,2018,87.9658735,Rule of Law
+New Zealand,NZL,2018,87.293263,Voice and Accountability
+Philippines,PHL,2018,55.5875464,Government Effectiveness
+Philippines,PHL,2018,47.672128,Political Stability
+Philippines,PHL,2018,45.9532714,Rule of Law
+Philippines,PHL,2018,53.9513908,Voice and Accountability
+South Africa,ZAF,2018,54.2202351,Government Effectiveness
+South Africa,ZAF,2018,60.7804491,Political Stability
+South Africa,ZAF,2018,55.7886824,Rule of Law
+South Africa,ZAF,2018,66.1362421,Voice and Accountability
+Ukraine,UKR,2018,44.2785291,Government Effectiveness
+Ukraine,UKR,2018,41.1917481,Political Stability
+Ukraine,UKR,2018,48.078708999999996,Rule of Law
+Ukraine,UKR,2018,56.266579799999995,Voice and Accountability
+Australia,AUS,2019,83.7468389,Government Effectiveness
+Australia,AUS,2019,80.3354191,Political Stability
+Australia,AUS,2019,85.091495,Rule of Law
+Australia,AUS,2019,83.00581299999999,Voice and Accountability
+China,CHN,2019,64.38070189999999,Government Effectiveness
+China,CHN,2019,63.5270765,Political Stability
+China,CHN,2019,47.472019599999996,Rule of Law
+China,CHN,2019,30.5511564,Voice and Accountability
+Japan,JPN,2019,87.0499696,Government Effectiveness
+Japan,JPN,2019,84.9598388,Political Stability
+Japan,JPN,2019,82.987206,Rule of Law
+Japan,JPN,2019,75.7090271,Voice and Accountability
+India,IND,2019,61.1691545,Government Effectiveness
+India,IND,2019,55.8082856,Political Stability
+India,IND,2019,56.6186668,Rule of Law
+India,IND,2019,58.7855415,Voice and Accountability
+Russian Federation,RUS,2019,52.1461979,Government Effectiveness
+Russian Federation,RUS,2019,59.084828699999996,Political Stability
+Russian Federation,RUS,2019,42.0461647,Rule of Law
+Russian Federation,RUS,2019,40.7285422,Voice and Accountability
+United Kingdom,GBR,2019,78.49738909999999,Government Effectiveness
+United Kingdom,GBR,2019,75.59929939999999,Political Stability
+United Kingdom,GBR,2019,81.7218803,Rule of Law
+United Kingdom,GBR,2019,79.7382961,Voice and Accountability
+United States,USA,2019,81.4636929,Government Effectiveness
+United States,USA,2019,66.8276892,Political Stability
+United States,USA,2019,76.30123669999999,Rule of Law
+United States,USA,2019,74.7890018,Voice and Accountability
+United Arab Emirates,ARE,2019,78.5272687,Government Effectiveness
+United Arab Emirates,ARE,2019,80.0644793,Political Stability
+United Arab Emirates,ARE,2019,64.3010859,Rule of Law
+United Arab Emirates,ARE,2019,42.684363,Voice and Accountability
+Afghanistan,AFG,2019,19.1785042,Government Effectiveness
+Afghanistan,AFG,2019,21.6637858,Political Stability
+Afghanistan,AFG,2019,28.4439091,Rule of Law
+Afghanistan,AFG,2019,36.8880743,Voice and Accountability
+Germany,DEU,2019,88.0532013,Government Effectiveness
+Germany,DEU,2019,78.3156599,Political Stability
+Germany,DEU,2019,86.3547779,Rule of Law
+Germany,DEU,2019,83.6923779,Voice and Accountability
+New Zealand,NZL,2019,84.08058779999999,Government Effectiveness
+New Zealand,NZL,2019,89.6102464,Political Stability
+New Zealand,NZL,2019,87.66516469999999,Rule of Law
+New Zealand,NZL,2019,87.456437,Voice and Accountability
+Philippines,PHL,2019,54.875588,Government Effectiveness
+Philippines,PHL,2019,48.650639,Political Stability
+Philippines,PHL,2019,45.8276987,Rule of Law
+Philippines,PHL,2019,53.5784495,Voice and Accountability
+South Africa,ZAF,2019,55.022816199999994,Government Effectiveness
+South Africa,ZAF,2019,60.1164309,Political Stability
+South Africa,ZAF,2019,55.6753499,Rule of Law
+South Africa,ZAF,2019,65.4460122,Voice and Accountability
+Ukraine,UKR,2019,44.089008199999995,Government Effectiveness
+Ukraine,UKR,2019,48.2657734,Political Stability
+Ukraine,UKR,2019,46.8865907,Rule of Law
+Ukraine,UKR,2019,58.273028399999994,Voice and Accountability
+Australia,AUS,2020,82.55700879999999,Government Effectiveness
+Australia,AUS,2020,81.0276612,Political Stability
+Australia,AUS,2020,83.67810899999999,Rule of Law
+Australia,AUS,2020,82.5881704,Voice and Accountability
+China,CHN,2020,62.374905399999996,Government Effectiveness
+China,CHN,2020,60.7244539,Political Stability
+China,CHN,2020,48.1981013,Rule of Law
+China,CHN,2020,29.855707199999998,Voice and Accountability
+Japan,JPN,2020,86.4392038,Government Effectiveness
+Japan,JPN,2020,85.24011019999999,Political Stability
+Japan,JPN,2020,83.0196947,Rule of Law
+Japan,JPN,2020,75.7748855,Voice and Accountability
+India,IND,2020,58.1320686,Government Effectiveness
+India,IND,2020,53.584859099999996,Political Stability
+India,IND,2020,55.192481199999996,Rule of Law
+India,IND,2020,57.8427157,Voice and Accountability
+Russian Federation,RUS,2020,50.4999408,Government Effectiveness
+Russian Federation,RUS,2020,57.235769299999994,Political Stability
+Russian Federation,RUS,2020,42.7588393,Rule of Law
+Russian Federation,RUS,2020,41.019984799999996,Voice and Accountability
+United Kingdom,GBR,2020,78.0332564,Government Effectiveness
+United Kingdom,GBR,2020,74.6097896,Political Stability
+United Kingdom,GBR,2020,80.2936931,Rule of Law
+United Kingdom,GBR,2020,79.90580899999999,Voice and Accountability
+United States,USA,2020,78.61459959999999,Government Effectiveness
+United States,USA,2020,63.386694799999994,Political Stability
+United States,USA,2020,74.25082069999999,Rule of Law
+United States,USA,2020,73.5834356,Voice and Accountability
+United Arab Emirates,ARE,2020,70.8554731,Government Effectiveness
+United Arab Emirates,ARE,2020,80.0198861,Political Stability
+United Arab Emirates,ARE,2020,63.805942599999995,Rule of Law
+United Arab Emirates,ARE,2020,42.5862511,Voice and Accountability
+Afghanistan,AFG,2020,17.960380999999998,Government Effectiveness
+Afghanistan,AFG,2020,21.658348699999998,Political Stability
+Afghanistan,AFG,2020,28.4695599,Rule of Law
+Afghanistan,AFG,2020,37.9205776,Voice and Accountability
+Germany,DEU,2020,85.9752286,Government Effectiveness
+Germany,DEU,2020,77.5791167,Political Stability
+Germany,DEU,2020,84.9686433,Rule of Law
+Germany,DEU,2020,84.8610331,Voice and Accountability
+New Zealand,NZL,2020,84.2310864,Government Effectiveness
+New Zealand,NZL,2020,90.8429264,Political Stability
+New Zealand,NZL,2020,87.36973429999999,Rule of Law
+New Zealand,NZL,2020,87.5648509,Voice and Accountability
+Philippines,PHL,2020,54.8698093,Government Effectiveness
+Philippines,PHL,2020,49.811337099999996,Political Stability
+Philippines,PHL,2020,46.0680376,Rule of Law
+Philippines,PHL,2020,52.1907577,Voice and Accountability
+South Africa,ZAF,2020,53.193981699999995,Government Effectiveness
+South Africa,ZAF,2020,61.6419067,Political Stability
+South Africa,ZAF,2020,55.9083277,Rule of Law
+South Africa,ZAF,2020,65.73652369999999,Voice and Accountability
+Ukraine,UKR,2020,43.8988087,Government Effectiveness
+Ukraine,UKR,2020,49.497361999999995,Political Stability
+Ukraine,UKR,2020,47.206011,Rule of Law
+Ukraine,UKR,2020,59.081210999999996,Voice and Accountability
+Australia,AUS,2021,84.4436776,Government Effectiveness
+Australia,AUS,2021,80.4761134,Political Stability
+Australia,AUS,2021,83.9886779,Rule of Law
+Australia,AUS,2021,81.9711062,Voice and Accountability
+China,CHN,2021,64.3085821,Government Effectiveness
+China,CHN,2021,61.4673891,Political Stability
+China,CHN,2021,47.69469,Rule of Law
+China,CHN,2021,28.605562199999998,Voice and Accountability
+Japan,JPN,2021,83.4821825,Government Effectiveness
+Japan,JPN,2021,85.7099533,Political Stability
+Japan,JPN,2021,83.3298195,Rule of Law
+Japan,JPN,2021,76.0165966,Voice and Accountability
+India,IND,2021,56.0073078,Government Effectiveness
+India,IND,2021,55.618123,Political Stability
+India,IND,2021,53.7961752,Rule of Law
+India,IND,2021,55.1745242,Voice and Accountability
+Russian Federation,RUS,2021,49.0645229,Government Effectiveness
+Russian Federation,RUS,2021,57.2478665,Political Stability
+Russian Federation,RUS,2021,41.427348699999996,Rule of Law
+Russian Federation,RUS,2021,39.4565488,Voice and Accountability
+United Kingdom,GBR,2021,77.1809881,Government Effectiveness
+United Kingdom,GBR,2021,73.3482195,Political Stability
+United Kingdom,GBR,2021,79.4450626,Rule of Law
+United Kingdom,GBR,2021,79.48010289999999,Voice and Accountability
+United States,USA,2021,79.39387119999999,Government Effectiveness
+United States,USA,2021,63.735279,Political Stability
+United States,USA,2021,74.65688659999999,Rule of Law
+United States,USA,2021,72.3867309,Voice and Accountability
+United Arab Emirates,ARE,2021,72.231295,Government Effectiveness
+United Arab Emirates,ARE,2021,80.2357804,Political Stability
+United Arab Emirates,ARE,2021,62.790602299999996,Rule of Law
+United Arab Emirates,ARE,2021,42.219110099999995,Voice and Accountability
+Afghanistan,AFG,2021,18.170856699999998,Government Effectiveness
+Afghanistan,AFG,2021,24.0335589,Political Stability
+Afghanistan,AFG,2021,27.357684799999998,Rule of Law
+Afghanistan,AFG,2021,31.8561734,Voice and Accountability
+Germany,DEU,2021,86.85681079999999,Government Effectiveness
+Germany,DEU,2021,77.17345089999999,Political Stability
+Germany,DEU,2021,85.1033429,Rule of Law
+Germany,DEU,2021,84.4494113,Voice and Accountability
+New Zealand,NZL,2021,82.5086321,Government Effectiveness
+New Zealand,NZL,2021,89.07381409999999,Political Stability
+New Zealand,NZL,2021,86.7460357,Rule of Law
+New Zealand,NZL,2021,87.32158199999999,Voice and Accountability
+Philippines,PHL,2021,54.379184099999996,Government Effectiveness
+Philippines,PHL,2021,47.2142694,Political Stability
+Philippines,PHL,2021,45.3703225,Rule of Law
+Philippines,PHL,2021,50.2922137,Voice and Accountability
+South Africa,ZAF,2021,52.1589454,Government Effectiveness
+South Africa,ZAF,2021,52.676512499999994,Political Stability
+South Africa,ZAF,2021,59.048487699999995,Rule of Law
+South Africa,ZAF,2021,68.0598059,Voice and Accountability
+Ukraine,UKR,2021,43.4683901,Government Effectiveness
+Ukraine,UKR,2021,48.9739903,Political Stability
+Ukraine,UKR,2021,47.1793877,Rule of Law
+Ukraine,UKR,2021,58.591808199999996,Voice and Accountability
+Australia,AUS,2022,85.7080678,Government Effectiveness
+Australia,AUS,2022,81.29405899999999,Political Stability
+Australia,AUS,2022,82.29793629999999,Rule of Law
+Australia,AUS,2022,82.7671019,Voice and Accountability
+China,CHN,2022,61.6310064,Government Effectiveness
+China,CHN,2022,61.6400806,Political Stability
+China,CHN,2022,47.2602075,Rule of Law
+China,CHN,2022,28.552708199999998,Voice and Accountability
+Japan,JPN,2022,90.8264358,Government Effectiveness
+Japan,JPN,2022,87.6884434,Political Stability
+Japan,JPN,2022,82.9264987,Rule of Law
+Japan,JPN,2022,76.09673,Voice and Accountability
+India,IND,2022,57.936912899999996,Government Effectiveness
+India,IND,2022,53.0233442,Political Stability
+India,IND,2022,55.0631273,Rule of Law
+India,IND,2022,55.1293486,Voice and Accountability
+Russian Federation,RUS,2022,47.2828965,Government Effectiveness
+Russian Federation,RUS,2022,53.2379591,Political Stability
+Russian Federation,RUS,2022,38.809857099999995,Rule of Law
+Russian Federation,RUS,2022,36.459524099999996,Voice and Accountability
+United Kingdom,GBR,2022,76.4866596,Government Effectiveness
+United Kingdom,GBR,2022,72.1751474,Political Stability
+United Kingdom,GBR,2022,79.3292982,Rule of Law
+United Kingdom,GBR,2022,79.9192229,Voice and Accountability
+United States,USA,2022,79.9489163,Government Effectiveness
+United States,USA,2022,63.1167764,Political Stability
+United States,USA,2022,75.0674875,Rule of Law
+United States,USA,2022,72.9996786,Voice and Accountability
+United Arab Emirates,ARE,2022,73.3741309,Government Effectiveness
+United Arab Emirates,ARE,2022,80.98113599999999,Political Stability
+United Arab Emirates,ARE,2022,64.0194293,Rule of Law
+United Arab Emirates,ARE,2022,42.381842999999996,Voice and Accountability
+Afghanistan,AFG,2022,13.1405332,Government Effectiveness
+Afghanistan,AFG,2022,24.057305799999998,Political Stability
+Afghanistan,AFG,2022,24.975367199999997,Rule of Law
+Afghanistan,AFG,2022,24.6158803,Voice and Accountability
+Germany,DEU,2022,85.9365,Government Effectiveness
+Germany,DEU,2022,74.9216757,Political Stability
+Germany,DEU,2022,84.1757238,Rule of Law
+Germany,DEU,2022,84.1299384,Voice and Accountability
+New Zealand,NZL,2022,83.5496532,Government Effectiveness
+New Zealand,NZL,2022,86.9518882,Political Stability
+New Zealand,NZL,2022,86.6018582,Rule of Law
+New Zealand,NZL,2022,87.3088472,Voice and Accountability
+Philippines,PHL,2022,52.0364364,Government Effectiveness
+Philippines,PHL,2022,50.537310299999994,Political Stability
+Philippines,PHL,2022,46.084110599999995,Rule of Law
+Philippines,PHL,2022,50.823976099999996,Voice and Accountability
+South Africa,ZAF,2022,51.3101517,Government Effectiveness
+South Africa,ZAF,2022,54.205655699999994,Political Stability
+South Africa,ZAF,2022,57.551636699999996,Rule of Law
+South Africa,ZAF,2022,66.7315227,Voice and Accountability
+Ukraine,UKR,2022,38.9508053,Government Effectiveness
+Ukraine,UKR,2022,47.945790699999996,Political Stability
+Ukraine,UKR,2022,44.1890986,Rule of Law
+Ukraine,UKR,2022,56.5117214,Voice and Accountability
+Australia,AUS,2023,85.9860939,Government Effectiveness
+Australia,AUS,2023,81.70232969999999,Political Stability
+Australia,AUS,2023,82.8355625,Rule of Law
+Australia,AUS,2023,83.3531587,Voice and Accountability
+China,CHN,2023,66.4607065,Government Effectiveness
+China,CHN,2023,62.9144825,Political Stability
+China,CHN,2023,47.4599153,Rule of Law
+China,CHN,2023,28.0278575,Voice and Accountability
+Japan,JPN,2023,90.0027288,Government Effectiveness
+Japan,JPN,2023,87.5440509,Political Stability
+Japan,JPN,2023,82.926836,Rule of Law
+Japan,JPN,2023,76.6083575,Voice and Accountability
+India,IND,2023,59.5575797,Government Effectiveness
+India,IND,2023,51.580456299999994,Political Stability
+India,IND,2023,55.4517708,Rule of Law
+India,IND,2023,54.3472936,Voice and Accountability
+Russian Federation,RUS,2023,47.2868281,Government Effectiveness
+Russian Federation,RUS,2023,51.9145331,Political Stability
+Russian Federation,RUS,2023,38.4906606,Rule of Law
+Russian Federation,RUS,2023,33.902492699999996,Voice and Accountability
+United Kingdom,GBR,2023,73.4657181,Government Effectiveness
+United Kingdom,GBR,2023,72.1862761,Political Stability
+United Kingdom,GBR,2023,78.8284082,Rule of Law
+United Kingdom,GBR,2023,78.761785,Voice and Accountability
+United States,USA,2023,77.7556405,Government Effectiveness
+United States,USA,2023,62.5953145,Political Stability
+United States,USA,2023,73.49888159999999,Rule of Law
+United States,USA,2023,71.96469689999999,Voice and Accountability
+United Arab Emirates,ARE,2023,76.8137703,Government Effectiveness
+United Arab Emirates,ARE,2023,79.2684716,Political Stability
+United Arab Emirates,ARE,2023,64.6972832,Rule of Law
+United Arab Emirates,ARE,2023,40.962165399999996,Voice and Accountability
+Afghanistan,AFG,2023,10.6546599,Government Effectiveness
+Afghanistan,AFG,2023,25.0303745,Political Stability
+Afghanistan,AFG,2023,24.319362299999998,Rule of Law
+Afghanistan,AFG,2023,21.1952411,Voice and Accountability
+Germany,DEU,2023,81.7001069,Government Effectiveness
+Germany,DEU,2023,74.5380247,Political Stability
+Germany,DEU,2023,84.2533906,Rule of Law
+Germany,DEU,2023,84.705289,Voice and Accountability
+New Zealand,NZL,2023,84.9223349,Government Effectiveness
+New Zealand,NZL,2023,87.8435887,Political Stability
+New Zealand,NZL,2023,86.35292249999999,Rule of Law
+New Zealand,NZL,2023,86.8865682,Voice and Accountability
+Philippines,PHL,2023,53.320194699999995,Government Effectiveness
+Philippines,PHL,2023,53.7824112,Political Stability
+Philippines,PHL,2023,46.6183464,Rule of Law
+Philippines,PHL,2023,50.484301699999996,Voice and Accountability
+South Africa,ZAF,2023,47.7497513,Government Effectiveness
+South Africa,ZAF,2023,54.967115899999996,Political Stability
+South Africa,ZAF,2023,57.644963399999995,Rule of Law
+South Africa,ZAF,2023,66.6886049,Voice and Accountability
+Ukraine,UKR,2023,40.0563826,Government Effectiveness
+Ukraine,UKR,2023,56.5682153,Political Stability
+Ukraine,UKR,2023,44.135759199999995,Rule of Law
+Ukraine,UKR,2023,55.272869,Voice and Accountability
+Australia,AUS,2024,86.5155896,Government Effectiveness
+Australia,AUS,2024,79.44470249999999,Political Stability
+Australia,AUS,2024,82.2713526,Rule of Law
+Australia,AUS,2024,83.31878209999999,Voice and Accountability
+China,CHN,2024,68.7581244,Government Effectiveness
+China,CHN,2024,63.2751622,Political Stability
+China,CHN,2024,46.9942092,Rule of Law
+China,CHN,2024,27.9142454,Voice and Accountability
+Japan,JPN,2024,91.9378443,Government Effectiveness
+Japan,JPN,2024,85.270442,Political Stability
+Japan,JPN,2024,82.97998439999999,Rule of Law
+Japan,JPN,2024,76.3842312,Voice and Accountability
+India,IND,2024,59.207628199999995,Government Effectiveness
+India,IND,2024,52.4723123,Political Stability
+India,IND,2024,56.2895569,Rule of Law
+India,IND,2024,55.4677802,Voice and Accountability
+Russian Federation,RUS,2024,45.088178,Government Effectiveness
+Russian Federation,RUS,2024,50.464845,Political Stability
+Russian Federation,RUS,2024,37.0602119,Rule of Law
+Russian Federation,RUS,2024,31.9576301,Voice and Accountability
+United Kingdom,GBR,2024,74.3798903,Government Effectiveness
+United Kingdom,GBR,2024,70.2964669,Political Stability
+United Kingdom,GBR,2024,78.8208235,Rule of Law
+United Kingdom,GBR,2024,79.6131796,Voice and Accountability
+United States,USA,2024,77.7839316,Government Effectiveness
+United States,USA,2024,64.2697196,Political Stability
+United States,USA,2024,73.5177858,Rule of Law
+United States,USA,2024,72.3731718,Voice and Accountability
+United Arab Emirates,ARE,2024,75.8392807,Government Effectiveness
+United Arab Emirates,ARE,2024,79.36614589999999,Political Stability
+United Arab Emirates,ARE,2024,65.5157588,Rule of Law
+United Arab Emirates,ARE,2024,41.9065122,Voice and Accountability
+Afghanistan,AFG,2024,13.7358099,Government Effectiveness
+Afghanistan,AFG,2024,28.2258568,Political Stability
+Afghanistan,AFG,2024,23.6535886,Rule of Law
+Afghanistan,AFG,2024,19.2473331,Voice and Accountability
+Germany,DEU,2024,81.40675499999999,Government Effectiveness
+Germany,DEU,2024,68.0170742,Political Stability
+Germany,DEU,2024,84.9456033,Rule of Law
+Germany,DEU,2024,84.8208684,Voice and Accountability
+New Zealand,NZL,2024,87.2960648,Government Effectiveness
+New Zealand,NZL,2024,85.5494444,Political Stability
+New Zealand,NZL,2024,85.6627596,Rule of Law
+New Zealand,NZL,2024,86.41504239999999,Voice and Accountability
+Philippines,PHL,2024,54.150555499999996,Government Effectiveness
+Philippines,PHL,2024,52.6707116,Political Stability
+Philippines,PHL,2024,47.0863157,Rule of Law
+Philippines,PHL,2024,50.6282195,Voice and Accountability
+South Africa,ZAF,2024,46.9478119,Government Effectiveness
+South Africa,ZAF,2024,55.3527432,Political Stability
+South Africa,ZAF,2024,57.2693915,Rule of Law
+South Africa,ZAF,2024,67.47814389999999,Voice and Accountability
+Ukraine,UKR,2024,39.6965613,Government Effectiveness
+Ukraine,UKR,2024,58.5097612,Political Stability
+Ukraine,UKR,2024,44.5695791,Rule of Law
+Ukraine,UKR,2024,54.9063143,Voice and Accountability
